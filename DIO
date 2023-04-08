@@ -1,0 +1,10 @@
+<? versão xml = " 1.0 " codificação = " UTF-8 " ?>
+< caminho de classe >
+	< classpathentry  kind = " src "  caminho = " src " />
+	< classpathentry  kind = " con "  path = " org.eclipse.jdt.launching.JRE_CONTAINER " >
+		<atributos> _ _
+			< nome do atributo  = " módulo " valor = " verdadeiro " /> 
+		</ atributos >
+	</classpathentry> _ _
+	< classpathentry  kind = " output "  path = " bin " />
+</ caminho de classe >
